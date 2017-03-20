@@ -1,3 +1,3 @@
 # stringpool.lab
 
-### String Pool Lab
+- String Pool Lab.
